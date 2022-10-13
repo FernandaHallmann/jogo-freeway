@@ -2,7 +2,7 @@
 
 > Status do projeto: Finalizado
 
-## 💻 Pré-requisitos:
+## 💻 Pré-requisitos
 
 * VSCode
 * Extensão p5.vscode
