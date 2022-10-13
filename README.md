@@ -1,4 +1,4 @@
-<h1>Jogo FreeWay</h1>
+<h1>🎮 Jogo FreeWay</h1>
 
 > Status do projeto: Finalizado
 
